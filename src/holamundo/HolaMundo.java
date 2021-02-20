@@ -14,7 +14,7 @@ public class HolaMundo {
 	//Fin de la modificación desde consola GitLocal
         
         //Modificación desde Netbeans
-        System.out.println("Hola Mundo, otra vez, menudo chaparron");
+        System.out.println("Hola Mundo, otra vez, todo bien");
         //Fin de la modificación desde netbeans
     }
     
